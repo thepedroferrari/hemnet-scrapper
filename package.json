@@ -8,12 +8,12 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~4.1.1",
-    "ejs": "^2.7.4",
+    "ejs": "^3.0.1",
     "express": "~4.17.1",
-    "firestore-export-import": "^0.3.0",
+    "firestore-export-import": "^0.3.2",
     "http-errors": "~1.7.3",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.0",
+    "nodemon": "^2.0.2",
     "puppeteer": "^2.0.0"
   },
   "main": "app.js",
@@ -28,6 +28,6 @@
       "jsonData/",
       "jsonData"
     ],
-    "delay": "5000ms"
+    "delay": "6000ms"
   }
 }
